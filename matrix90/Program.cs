@@ -6,7 +6,7 @@ namespace matrix90
     {
         static void Main()
         {
-            Console.WriteLine("Rotate by 90°");
+            Console.WriteLine("Rotate the matrix by 90°");
             Console.WriteLine("Enter rows:");
             string i = Console.ReadLine();
             Console.WriteLine("Enter columns:");
